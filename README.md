@@ -12,4 +12,5 @@ https://www.hackster.io/mircemk/arduino-barometer-barograph-with-bme280-sensor-f
 
 https://www.hackster.io/mircemk/diy-advanced-arduino-barometer-0dacc8
 
+![Barometro_Grafico_bb1](https://github.com/user-attachments/assets/08364246-815b-4e4b-8e0f-e5390beb9f32)
 
