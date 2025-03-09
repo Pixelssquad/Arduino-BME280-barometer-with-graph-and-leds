@@ -17,3 +17,5 @@ https://www.hackster.io/mircemk/diy-advanced-arduino-barometer-0dacc8
 Resistor are 220 ohm and 1K ohm
 
 Pressure/altitude calculator: https://www.mide.com/air-pressure-at-altitude-calculator
+
+Attiny85+DHT11 project also used in my youtube video in the wood box here: https://www.instructables.com/OLED-DHT11-Thermometer-ATtiny13/
